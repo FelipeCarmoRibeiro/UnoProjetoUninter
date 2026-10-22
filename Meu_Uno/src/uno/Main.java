@@ -9,12 +9,12 @@ public class Main {
 		
 		Jogo.InicioJogo(nome_jogador);
 		
+		Baralho baralho = new Baralho();
+		System.out.println(baralho.QuantidadeBaralho());
+		
 	
 		
-		
-		
-		
-		
+	
 	}
 	
 }
